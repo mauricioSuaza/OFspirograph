@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2BAB8DD-FEF7-4CB1-9760-BA6456E6016F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>spirograph</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECFCAF1D924A86F5CA38E29D312FBEC3B224503B</key>
+		<string>https://github.com/mauricioSuaza/OFspirograph.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>spirograph.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECFCAF1D924A86F5CA38E29D312FBEC3B224503B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mauricioSuaza/OFspirograph.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECFCAF1D924A86F5CA38E29D312FBEC3B224503B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECFCAF1D924A86F5CA38E29D312FBEC3B224503B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OFspirograph</string>
+		</dict>
+	</array>
+</dict>
+</plist>
